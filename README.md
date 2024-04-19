@@ -5,6 +5,6 @@ PowerBI: https://andreacococode.github.io/RETI_IoT/PowerBI.html
 
 
 
-Grafana: https://andreacococode.github.io/RETI_IoT/PowerBI.html
+Grafana: https://andrecoco.grafana.net/public-dashboards/fc5a489f31bb4941aab8388ebc8a5325?orgId=1&refresh=30s
 ![Untitled 1 (2)](https://github.com/andreacococode/RETI_IoT/assets/144790511/fca730e7-d64e-45e0-acdc-36f27d68ae59)
 
